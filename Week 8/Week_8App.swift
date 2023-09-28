@@ -11,7 +11,7 @@ import SwiftUI
 struct Week_8App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          ContentView(light: .green)
         }
     }
 }
